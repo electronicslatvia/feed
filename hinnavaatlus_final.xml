@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pricelist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.hinnavaatlus.ee/xml_hinnakiri.xsd">
+   <Product>
+      <Category>Nutikõlarid</Category>
+      <Vendor>Yango Group</Vendor>
+      <Name>АЛИСА ЛАЙТ 2</Name>
+      <Code>1</Code>
+      <GTIN/>
+      <Description>Яркая умная колонка с LED-дисплеем. Показывает время, эмоции и реагирует на голос. Подходит для детей, подарка и первого знакомства с Алисой.</Description>
+      <Price>199.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/yandex-alisa-lite-2</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture/>
+      <ProductURL>https://electronicslatvia.com/yandex-alisa-lite-2</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Nutikõlarid</Category>
+      <Vendor>Yango Group</Vendor>
+      <Name>АЛИСА МИНИ 2 С ЧАСАМИ</Name>
+      <Code>2</Code>
+      <GTIN/>
+      <Description>Компактная умная колонка с часами. Показывает время, таймер и будильник. Хорошо подходит для кухни, спальни или рабочего стола.</Description>
+      <Price>246.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/yandex-alisa-mini-2-s-chasami</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture/>
+      <ProductURL>https://electronicslatvia.com/yandex-alisa-mini-2-s-chasami</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Nutikõlarid</Category>
+      <Vendor>Yango Group</Vendor>
+      <Name>АЛИСА МИДИ</Name>
+      <Code>3</Code>
+      <GTIN/>
+      <Description>Популярная модель с хорошим балансом цены и качества. Компактный размер и мощный звук 24 Вт для квартиры, музыки и управления умным домом.</Description>
+      <Price>420.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/yandex-alisa-midi</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture/>
+      <ProductURL>https://electronicslatvia.com/yandex-alisa-midi</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Nutikõlarid</Category>
+      <Vendor>Yango Group</Vendor>
+      <Name>АЛИСА МАКС</Name>
+      <Code>4</Code>
+      <GTIN/>
+      <Description>Самая мощная колонка с Алисой. Громкий и насыщенный звук почти как у полноценной аудиосистемы. Подходит для больших комнат и подключения к телевизору.</Description>
+      <Price>690.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/yandex-alisa-max</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture/>
+      <ProductURL>https://electronicslatvia.com/yandex-alisa-max</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Digitaalsed pildiraamid</Category>
+      <Vendor>Electronics Latvia</Vendor>
+      <Name>ЦИФРОВАЯ ФОТОРАМКА</Name>
+      <Code>5</Code>
+      <GTIN/>
+      <Description/>
+      <Price>105.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/gadgets/tproduct/2131792223-523751899654-tsifrovaya-fotoramka-s-wi-fi-i-funktsiei</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture>https://static.tildacdn.com/tild6132-3462-4465-b936-363039393134/image.png</Picture>
+      <ProductURL>https://electronicslatvia.com/gadgets/tproduct/2131792223-523751899654-tsifrovaya-fotoramka-s-wi-fi-i-funktsiei</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Nutikellad</Category>
+      <Vendor>Smart Baby Watch</Vendor>
+      <Name>ДЕТСКИЕ ЧАСЫ Q12</Name>
+      <Code>6</Code>
+      <GTIN/>
+      <Description/>
+      <Price>34.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/gadgets/tproduct/2131792223-801133278274-detskie-umnie-chasi-q12</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture>https://static.tildacdn.com/tild6633-3931-4339-b031-353834663834/Group_982_1.jpg</Picture>
+      <ProductURL>https://electronicslatvia.com/gadgets/tproduct/2131792223-801133278274-detskie-umnie-chasi-q12</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Robotid</Category>
+      <Vendor>Aibi</Vendor>
+      <Name>AIBI РОБОТ</Name>
+      <Code>7</Code>
+      <GTIN/>
+      <Description/>
+      <Price>339.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/gadgets/tproduct/2131792223-310388546984-aibi-robot-ai-pitomets-kotorii-vsegda-s</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture>https://static.tildacdn.com/tild6338-3738-4463-b166-356565383733/4fe419272f8f4e54a29a.webp</Picture>
+      <ProductURL>https://electronicslatvia.com/gadgets/tproduct/2131792223-310388546984-aibi-robot-ai-pitomets-kotorii-vsegda-s</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Autotarvikud</Category>
+      <Vendor>Electronics Latvia</Vendor>
+      <Name>BLUETOOTH АДАПТЕР В МАШИНУ</Name>
+      <Code>8</Code>
+      <GTIN/>
+      <Description/>
+      <Price>49.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/gadgets/tproduct/2131792223-869789317254-bluetooth-adapter-v-mashinu-hands-free-m</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture>https://static.tildacdn.com/tild3365-3966-4734-b762-613138336463/53a4a4cbc97387a3ff18.webp</Picture>
+      <ProductURL>https://electronicslatvia.com/gadgets/tproduct/2131792223-869789317254-bluetooth-adapter-v-mashinu-hands-free-m</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Nutikellad</Category>
+      <Vendor>Amazfit</Vendor>
+      <Name>Amazfit Helio Strap</Name>
+      <Code>9</Code>
+      <GTIN/>
+      <Description/>
+      <Price>149.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/gadgets/tproduct/2131792223-338864021684-amazfit-helio-strap-umnii-fitnes-braslet</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture>https://static.tildacdn.com/tild6438-3461-4266-a536-643262633432/942865610940f77ad71e.webp</Picture>
+      <ProductURL>https://electronicslatvia.com/gadgets/tproduct/2131792223-338864021684-amazfit-helio-strap-umnii-fitnes-braslet</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Kõrvaklapid</Category>
+      <Vendor>Electronics Latvia</Vendor>
+      <Name>AI наушники-переводчик</Name>
+      <Code>10</Code>
+      <GTIN/>
+      <Description/>
+      <Price>59.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/gadgets/tproduct/2131792223-365961847744-ai-naushniki-perevodchik-obschenie-bez-g</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture>https://static.tildacdn.com/tild6233-6639-4933-a639-346638656534/43aa79d749aae7553503.png</Picture>
+      <ProductURL>https://electronicslatvia.com/gadgets/tproduct/2131792223-365961847744-ai-naushniki-perevodchik-obschenie-bez-g</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Virtuaalreaalsus</Category>
+      <Vendor>Electronics Latvia</Vendor>
+      <Name>VR очки</Name>
+      <Code>11</Code>
+      <GTIN/>
+      <Description/>
+      <Price>49.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/gadgets/tproduct/2131792223-161426189834-vr-ochki-dlya-smartfona-pogruzhenie-v-</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture>https://static.tildacdn.com/tild6337-3762-4463-a632-363034643533/8b5813beaab38352cd5c.webp</Picture>
+      <ProductURL>https://electronicslatvia.com/gadgets/tproduct/2131792223-161426189834-vr-ochki-dlya-smartfona-pogruzhenie-v-</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Nutikellad</Category>
+      <Vendor>Smart Baby Watch</Vendor>
+      <Name>Часы Q19</Name>
+      <Code>12</Code>
+      <GTIN/>
+      <Description/>
+      <Price>44.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/gadgets/tproduct/2131792223-490663750204-detskie-umnie-chasi-q19-smart-baby-watch</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture>https://static.tildacdn.com/tild6466-3631-4861-a464-353163316437/78e6f13b5263530ce396.webp</Picture>
+      <ProductURL>https://electronicslatvia.com/gadgets/tproduct/2131792223-490663750204-detskie-umnie-chasi-q19-smart-baby-watch</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Diktofonid</Category>
+      <Vendor>Electronics Latvia</Vendor>
+      <Name>AI диктофон</Name>
+      <Code>13</Code>
+      <GTIN/>
+      <Description/>
+      <Price>189.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/gadgets/tproduct/2131792223-755478629614-ai-diktofon-s-rasshifrovkoi-i-perevodom</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture>https://static.tildacdn.com/tild3130-3431-4666-a635-363865636135/d8d7a946b4fba9fd46ce.webp</Picture>
+      <ProductURL>https://electronicslatvia.com/gadgets/tproduct/2131792223-755478629614-ai-diktofon-s-rasshifrovkoi-i-perevodom</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Nutikodu</Category>
+      <Vendor>Aqara</Vendor>
+      <Name>Безопасность дом</Name>
+      <Code>14</Code>
+      <GTIN/>
+      <Description/>
+      <Price>85.37</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/tproduct/2134752923-975022956604-komplekt-bezopasnost-v-dome</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture/>
+      <ProductURL>https://electronicslatvia.com/tproduct/2134752923-975022956604-komplekt-bezopasnost-v-dome</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Nutikodu</Category>
+      <Vendor>Aqara</Vendor>
+      <Name>Умные шторы</Name>
+      <Code>15</Code>
+      <GTIN/>
+      <Description/>
+      <Price>69.99</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/tproduct/2134752923-889625190794-komplekt-umnie-shtori</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture/>
+      <ProductURL>https://electronicslatvia.com/tproduct/2134752923-889625190794-komplekt-umnie-shtori</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Valgustus</Category>
+      <Vendor>Electronics Latvia</Vendor>
+      <Name>Светильник</Name>
+      <Code>16</Code>
+      <GTIN/>
+      <Description/>
+      <Price>75.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/catalog-rus/tproduct/595450106-698055883761-umnii-uglovoi-svetilnik-c-wi-fi</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture>https://static.tildacdn.com/tild3837-3632-4836-a632-653130316664/Group_784_7.jpg</Picture>
+      <ProductURL>https://electronicslatvia.com/catalog-rus/tproduct/595450106-698055883761-umnii-uglovoi-svetilnik-c-wi-fi</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Valgustus</Category>
+      <Vendor>Starry Light Projector</Vendor>
+      <Name>Проектор</Name>
+      <Code>17</Code>
+      <GTIN/>
+      <Description/>
+      <Price>45.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/tproduct/2134752923-542215773071-proektor-zvezdnoe-nebo-starry-light-proj</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture>https://static.tildacdn.com/tild6539-6330-4338-b766-613131653838/81qadkzlXZL_1.jpg</Picture>
+      <ProductURL>https://electronicslatvia.com/tproduct/2134752923-542215773071-proektor-zvezdnoe-nebo-starry-light-proj</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Valgustus</Category>
+      <Vendor>Aqara</Vendor>
+      <Name>Лампа Aqara</Name>
+      <Code>18</Code>
+      <GTIN/>
+      <Description/>
+      <Price>123.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/tproduct/2134752923-609872044992-umnaya-lampa-aqara-cl-l02d</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture/>
+      <ProductURL>https://electronicslatvia.com/tproduct/2134752923-609872044992-umnaya-lampa-aqara-cl-l02d</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Nutikodu</Category>
+      <Vendor>Aqara</Vendor>
+      <Name>Выключатель Aqara</Name>
+      <Code>19</Code>
+      <GTIN/>
+      <Description/>
+      <Price>41.99</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/tproduct/2134752923-978352468282-umnii-domashnii-viklyuchatel-sveta-aqara</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture/>
+      <ProductURL>https://electronicslatvia.com/tproduct/2134752923-978352468282-umnii-domashnii-viklyuchatel-sveta-aqara</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Nutikodu</Category>
+      <Vendor>Aqara</Vendor>
+      <Name>Рулонные шторы</Name>
+      <Code>20</Code>
+      <GTIN/>
+      <Description/>
+      <Price>109.99</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/tproduct/2134752923-742634574112-umnii-dom-upravlenie-rulonnimi-shtorami</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture/>
+      <ProductURL>https://electronicslatvia.com/tproduct/2134752923-742634574112-umnii-dom-upravlenie-rulonnimi-shtorami</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Nutikodu</Category>
+      <Vendor>Aqara</Vendor>
+      <Name>Hub M200</Name>
+      <Code>21</Code>
+      <GTIN/>
+      <Description/>
+      <Price>59.99</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/tproduct/2134752923-605019857312-umnii-dom-hub-m200-hm-g03d-aqara</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture/>
+      <ProductURL>https://electronicslatvia.com/tproduct/2134752923-605019857312-umnii-dom-hub-m200-hm-g03d-aqara</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Valgustus</Category>
+      <Vendor>Aqara</Vendor>
+      <Name>Лампочка Aqara</Name>
+      <Code>22</Code>
+      <GTIN/>
+      <Description/>
+      <Price>22.99</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/tproduct/2134752923-131144619412-umnaya-lampochka-aqara</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture/>
+      <ProductURL>https://electronicslatvia.com/tproduct/2134752923-131144619412-umnaya-lampochka-aqara</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Arvutitarvikud</Category>
+      <Vendor>Electronics Latvia</Vendor>
+      <Name>Наклейки</Name>
+      <Code>23</Code>
+      <GTIN/>
+      <Description/>
+      <Price>12.99</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/nostalgia/tproduct/2152390833-365802614744-nakleika-na-klaviaturu-na-russkom-yazike</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture>https://static.tildacdn.com/stor6339-3231-4761-a331-643964613231/440f18b303cd730f90a4aca023e15ced.webp</Picture>
+      <ProductURL>https://electronicslatvia.com/nostalgia/tproduct/2152390833-365802614744-nakleika-na-klaviaturu-na-russkom-yazike</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Lauamängud</Category>
+      <Vendor>Electronics Latvia</Vendor>
+      <Name>Денежный поток</Name>
+      <Code>24</Code>
+      <GTIN/>
+      <Description/>
+      <Price>59.99</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/nostalgia/tproduct/2152390833-605207239004-nastolnie-igri-denezhnii-potok</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture>https://static.tildacdn.com/stor6531-3136-4234-b266-656636313761/d495d64d5c16bebbe18e8ee6cb1df028.webp</Picture>
+      <ProductURL>https://electronicslatvia.com/nostalgia/tproduct/2152390833-605207239004-nastolnie-igri-denezhnii-potok</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Kotid</Category>
+      <Vendor>Electronics Latvia</Vendor>
+      <Name>Сумка</Name>
+      <Code>25</Code>
+      <GTIN/>
+      <Description/>
+      <Price>18.99</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/nostalgia/tproduct/2152390833-212009433884-sumka-shopper-ya-za-hlebom</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture>https://static.tildacdn.com/stor6566-3162-4238-a633-353337386162/9447ff4f274de8247e922e7573fa2b88.webp</Picture>
+      <ProductURL>https://electronicslatvia.com/nostalgia/tproduct/2152390833-212009433884-sumka-shopper-ya-za-hlebom</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Nutiprillid</Category>
+      <Vendor>Electronics Latvia</Vendor>
+      <Name>AI очки</Name>
+      <Code>26</Code>
+      <GTIN/>
+      <Description/>
+      <Price>79.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/gadgets/tproduct/2131792223-619089348204-umnie-ai-ochki-s-funktsiei-perevoda</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture/>
+      <ProductURL>https://electronicslatvia.com/gadgets/tproduct/2131792223-619089348204-umnie-ai-ochki-s-funktsiei-perevoda</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Nutiprillid</Category>
+      <Vendor>Electronics Latvia</Vendor>
+      <Name>Очки камера</Name>
+      <Code>27</Code>
+      <GTIN/>
+      <Description/>
+      <Price>69.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/gadgets/tproduct/2131792223-797276707354-umnie-ochki-s-kameroi-1080p-64gb</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture/>
+      <ProductURL>https://electronicslatvia.com/gadgets/tproduct/2131792223-797276707354-umnie-ochki-s-kameroi-1080p-64gb</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+   <Product>
+      <Category>Kotid</Category>
+      <Vendor>Electronics Latvia</Vendor>
+      <Name>Сумка ретро</Name>
+      <Code>28</Code>
+      <GTIN/>
+      <Description/>
+      <Price>49.00</Price>
+      <InStore>2-3tp</InStore>
+      <URL>https://electronicslatvia.com/gadgets/tproduct/2131792223-917163351964-sumka-v-stile-retro-telefona</URL>
+      <AdditionalInfo>Tarne Euroopas. Abi seadistamisel.</AdditionalInfo>
+      <Picture/>
+      <ProductURL>https://electronicslatvia.com/gadgets/tproduct/2131792223-917163351964-sumka-v-stile-retro-telefona</ProductURL>
+      <Payment6/>
+      <Payment12/>
+      <Payment24/>
+      <Payment36/>
+      <Payment48/>
+   </Product>
+</Pricelist>
