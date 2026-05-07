@@ -32,6 +32,7 @@ Zvaigžņotās debess efekts patiks bērniem, radīs romantisku noskaņu pieaugu
 			<oldprice>45.00</oldprice>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Projektori > Zvaigžņotās debess projektori</category_full>
 		</offer>
 		<offer id="368819197084">
 			<name>Viedā stūra lampa ar Wi-Fi (RGB LED)</name>
@@ -68,6 +69,7 @@ Miers par mājām 24/7Tu vienmēr zini, kas notiek — pat ja esi citā valstī.
 			<oldprice>92.37</oldprice>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Viedā māja > Drošības sensori</category_full>
 		</offer>
 		<offer id="618837588774">
 			<name>Komplekts “Viedie aizkari” Aqara</name>
@@ -84,6 +86,7 @@ Komforts, ko tu jūti katru dienu. Aizkari atveras paši — pēc laika, ar bals
 			<oldprice>75.68</oldprice>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Viedā māja > Viedie aizkari</category_full>
 		</offer>
 		<offer id="589633217154">
 			<name>Aqara viedā griestu lampa CL-L02D (T1M)</name>
@@ -100,9 +103,10 @@ Inovatīva griestu lampa ar diviem gaismas avotiem: jaudīgu galveno apgaismojum
 			<price>123.00</price>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Apgaismojums > Viedās griestu lampas</category_full>
 		</offer>
 		<offer id="507431041004">
-			<name>ALISA LIGHT 2</name>
+			<name>Alisa Lite 2 / Алиса Лайт 2 viedais skaļrunis smart speaker</name>
 			<vendor>Yango Group</vendor>
 			<description>
 <![CDATA[
@@ -119,9 +123,10 @@ Spilgts viedais skaļrunis bērniem un ikdienas lietošanai ar LED displeju<br /
 			<price>199.00</price>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Viedie skaļruņi</category_full>
 		</offer>
 		<offer id="274121142124">
-			<name>ALISA MINI 2 AR PULKSTENI</name>
+			<name>Alisa Mini 2 ar pulksteni / Алиса Мини 2 с часами – kompakts viedais skaļrunis (smart speaker)</name>
 			<vendor>Yango Group</vendor>
 			<description>
 <![CDATA[
@@ -140,9 +145,10 @@ Kompakts viedais skaļrunis guļamistabai, virtuvei vai darba galdam<br />Stilī
 			<price>246.00</price>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Viedie skaļruņi</category_full>
 		</offer>
 		<offer id="298692955714">
-			<name>ALISA MIDI</name>
+			<name>Alisa Midi viedais skaļrunis ar jaudīgu 24W skaņu (smart speaker)</name>
 			<vendor>Yango Group</vendor>
 			<description>
 <![CDATA[
@@ -161,9 +167,10 @@ Labākā izvēle cenas un kvalitātes ziņā (24W)<br />Kompakts izmērs, bet p�
 			<price>420.00</price>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Viedie skaļruņi</category_full>
 		</offer>
 		<offer id="522724015404">
-			<name>ALISA MAX</name>
+			<name>Alisa Max viedais skaļrunis ar jaudīgu skaņu un LED displeju</name>
 			<vendor>Yango Group</vendor>
 			<description>
 <![CDATA[
@@ -180,9 +187,10 @@ Jaudīgākais viedais skaļrunis lielām telpām un maksimālai skaņas kvalitā
 			<price>690.00</price>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Viedie skaļruņi</category_full>
 		</offer>
 		<offer id="554863167684">
-			<name>Bērnu viedpulkstenis Q12</name>
+			<name>Bērnu viedpulkstenis Q12 ar GPS, zvaniem un atrašanās vietas izsekošanu</name>
 			<description>
 <![CDATA[
 Ērts risinājums saziņai un bērna drošībai. Zvaniet un rakstiet jebkurā laikā, sekojiet atrašanās vietai un jūtieties mierīgi
@@ -199,6 +207,7 @@ Jaudīgākais viedais skaļrunis lielām telpām un maksimālai skaņas kvalitā
 			<oldprice>39.00</oldprice>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Mobilie telefoni un aksesuāri « Viedpulksteņi</category_full>
 		</offer>
 		<offer id="859799301614">
 			<name>Digitālā foto rāmis ar Wi-Fi un video atskaņošanas funkciju</name>
@@ -219,6 +228,7 @@ Mūsdienīgs risinājums jūsu skaistāko mirkļu glabāšanai un kopīgošanai.
 			<price>105.00</price>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Foto un video tehnika « Digitālie foto rāmji</category_full>
 		</offer>
 		<offer id="662806912564">
 			<name>Aibi robots — AI pavadonis, kas vienmēr ir ar jums</name>
@@ -234,6 +244,7 @@ Gudrs palīgs ar mākslīgo intelektu ikdienai un saziņai. Palīdz ikdienas uzd
 			<price>339.00</price>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Rotaļlietas « Interaktīvās rotaļlietas « Roboti bērniem</category_full>
 		</offer>
 		<offer id="251381811324">
 			<name>Bluetooth adapteris automašīnai (hands-free + mūzika)</name>
@@ -250,7 +261,7 @@ Lerīce, kas padara jebkuru auto modernāku. Savieno telefonu un klausies mūzik
 			<categoryId>957833265164</categoryId>
 		</offer>
 		<offer id="924693355274">
-			<name>AMAZFIT HELIO STRAP</name>
+			<name>Amazfit Helio Strap fitnesa aproce ar pulsa, miega un aktivitātes uzraudzību</name>
 			<vendor>Amazfit</vendor>
 			<description>
 <![CDATA[
@@ -263,9 +274,10 @@ Palīdz sekot aktivitātei, miegam un atjaunošanās procesam. Ļauj labāk izpr
 			<price>149.00</price>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Sporta preces / Sporta aksesuāri un citas lietas / Sporta pulksteņi un aproces</category_full>
 		</offer>
 		<offer id="511837172464">
-			<name>AI austiņas–tulkotājs — saziņa bez robežām</name>
+			<name>AI tulkošanas austiņas Bluetooth — bezvadu reāllaika balss tulkotājs</name>
 			<description>
 <![CDATA[
 Bezvadu austiņas ar tulkošanas funkciju caur lietotni. Palīdz saprast svešvalodas un ērti sazināties ceļojumos, darbā un ikdienā.
@@ -278,6 +290,7 @@ Bezvadu austiņas ar tulkošanas funkciju caur lietotni. Palīdz saprast svešva
 			<price>59.00</price>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Austiņas > Bluetooth tulkošanas austiņas</category_full>
 		</offer>
 		<offer id="531000522924">
 			<name>VR brilles viedtālrunim — iegremdēšanās virtuālajā realitātē</name>
@@ -394,7 +407,7 @@ Spuldze ar 16 miljoniem krāsu un gudru pielāgošanos diennakts laikam. Minimā
 			<categoryId>957833265164</categoryId>
 		</offer>
 		<offer id="743002062594">
-			<name>Galda spēle “Naudas plūsma”</name>
+			<name>Galda spēle “Naudas plūsma” – finanšu pratības un biznesa spēle</name>
 			<description>
 <![CDATA[
 Spēle, kas maina domāšanu — ne tikai izklaide, bet arī praktisks rīks finanšu izpratnes attīstīšanai.
@@ -406,9 +419,10 @@ Spēle, kas maina domāšanu — ne tikai izklaide, bet arī praktisks rīks fin
 			<price>59.99</price>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Rotaļlietas un spēles > Galda spēles</category_full>
 		</offer>
 		<offer id="752360048004">
-			<name>AI viedās tulkošanas brilles</name>
+			<name>AI tulkošanas brilles ar Bluetooth – smart glasses reāllaika tulkošanai 144 valodās</name>
 			<description>
 <![CDATA[
 AI viedās tulkošanas brilles — saziņa bez robežām<br />Šīs AI brilles ir mūsdienīgs risinājums tiem, kas bieži sastopas ar svešvalodām. Tās palīdz saprast un tulkot runu reāllaikā, padarot saziņu vienkāršāku un dabiskāku.<br />Ideāli piemērotas ceļojumiem, darbam un ikdienas situācijām.<br />💡 Kāpēc tās ir noderīgas<br /><ul><li data-list="bullet">Tulkošana līdz 164 valodām — ērti ceļojot un strādājot</li><li data-list="bullet">Mūzikas klausīšanās — kā bezvadu austiņas</li><li data-list="bullet">Zvani caur brillēm — ērti kustībā</li><li data-list="bullet">Balss asistents — ātra piekļuve funkcijām</li><li data-list="bullet">Attālināta fotografēšana — kontrolē telefonu ar brillēm</li><li data-list="bullet">Skārienvadība — vienkārša lietošana</li></ul>⚙️ Funkcionalitāte<br /><ul><li data-list="bullet">runas tulkošana reāllaikā</li><li data-list="bullet">Bluetooth savienojums ar telefonu</li><li data-list="bullet">iebūvēts mikrofons un skaļrunis</li><li data-list="bullet">zvanu pieņemšana / noraidīšana</li><li data-list="bullet">mūzikas vadība (play / pause)</li><li data-list="bullet">balss komandas</li></ul>👓 Lietošanas ērtums<br />Brilles ir vieglas un ērtas ikdienas lietošanai.<br />Piemērotas gan darbam, gan ceļojumiem.<br />👉 Vadība ir intuitīva:<br /><ul><li data-list="bullet">pieskāriens — mūzika un zvani</li><li data-list="bullet">dubultpieskāriens — papildu funkcijas</li><li data-list="bullet">balss — ātra piekļuve asistentam</li></ul>🎯 Kam tās derēs<br /><ul><li data-list="bullet">ceļotājiem</li><li data-list="bullet">cilvēkiem, kas strādā ar ārzemniekiem</li><li data-list="bullet">valodu apguvei</li><li data-list="bullet">tiem, kas vēlas 2-in-1 ierīci (brilles + austiņas)</li></ul>
@@ -426,6 +440,7 @@ AI viedās tulkošanas brilles — saziņa bez robežām<br />Šīs AI brilles i
 			<price>79.00</price>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Elektronika > Viedā elektronika</category_full>
 		</offer>
 		<offer id="209331823974">
 			<name>Viedās brilles ar kameru 1080P (64GB)</name>
@@ -448,7 +463,7 @@ Brilles ar foto un video ieraksta funkciju Full HD kvalitātē. Piemērotas darb
 			<categoryId>957833265164</categoryId>
 		</offer>
 		<offer id="940567573474">
-			<name>Rokassoma retro telefona formā</name>
+			<name>Rokassoma retro telefona formā bērniem un sievietēm</name>
 			<description>
 <![CDATA[
 Spilgta un neparasta soma, kas uzreiz piesaista uzmanību.
@@ -463,6 +478,7 @@ Spilgta un neparasta soma, kas uzreiz piesaista uzmanību.
 			<price>49.00</price>
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
+			<category_full>Aksesuāri > Sieviešu rokassomas</category_full>
 		</offer>
 		</offers>
 	</shop>
