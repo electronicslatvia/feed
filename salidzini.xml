@@ -441,7 +441,26 @@ AI viedās tulkošanas brilles — saziņa bez robežām<br />Šīs AI brilles i
 			<currencyId>EUR</currencyId>
 			<categoryId>957833265164</categoryId>
 			<category_full>Elektronika > Viedā elektronika</category_full>
-		</offer>
+		<offer id="235481195414" group_id="168021257854">
+    <name>PLAUD NotePin — AI diktofons - Violets</name>
+
+    <description><![CDATA[
+Gudrs palīgs, kas pārvērš runu tekstā un veido kopsavilkumus. Ideāli piemērots sapulcēm, lekcijām un darbam — lai nekas svarīgs nepazustu.
+]]></description>
+
+    <picture>https://static.tildacdn.com/stor3661-3137-4130-a263-386534626335/6df3c7d1906ea86760a1aff37d160ef3.webp</picture>
+
+    <url>https://electronicslatvia.com/lv/tproduct/819033866-168021257854-plaud-notepin-ai-diktofons?editionuid=235481195414</url>
+
+    <count>9999</count>
+    <price>189.00</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>957833265164</categoryId>
+
+    <category_full>AI gadžeti</category_full>
+
+    <param name="Цвет NotePin">Violets</param>
+</offer>
 		<offer id="209331823974">
 			<name>Viedās brilles ar kameru 1080P (64GB)</name>
 			<description>
