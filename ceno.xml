@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <item>
-    <name>Alisa Mini 3 ar pulksteni — viedais skaļrunis / smart speaker</name>
-    <link>https://electronicslatvia.com/lv/tproduct/532820908-265869824744-alisa-mini-3-ar-pulksteni</link>
-    <price>299.00</price>
+ <item>
+    <name>ALISA MINI 3 ar pulksteni viedais skaļrunis (smart speaker) — lavandas krāsā</name>
+    <link>https://electronicslatvia.com/lv/tproduct/532820908-265869824744-yasmina-alisa-mini-3-ar-pulksteni</link>
+    <price>269.00</price>
     <image>https://static.tildacdn.com/stor6632-6334-4635-b136-303632383263/fa977031a06979990b7f748602ab110c.webp</image>
     <manufacturer>Yango Group</manufacturer>
+    <model>Alisa Mini 3</model>
     <category>Viedie skaļruņi</category>
     <category_full>Viedie skaļruņi</category_full>
     <in_stock>9999</in_stock>
     <used>0</used>
-  </item>
+</item>
+  <item>
+    <name>ALISA MINI 3 ar pulksteni viedais skaļrunis (smart speaker) — melnā un sudraba krāsā</name>
+    <link>https://electronicslatvia.com/lv/tproduct/532820908-233459435044-yasmina-alisa-mini-3-ar-pulksteni</link>
+    <price>299.00</price>
+    <image>https://static.tildacdn.com/stor3437-6665-4136-a531-366661613835/839f0a784184a010799c7e3bb28c143b.webp</image>
+    <manufacturer>Yango Group</manufacturer>
+    <model>Alisa Mini 3</model>
+    <category>Viedie skaļruņi</category>
+    <category_full>Viedie skaļruņi</category_full>
+    <in_stock>9999</in_stock>
+    <used>0</used>
+</item>
   <item>
     <name>Zvaigžņotās debess projektors “Starry Light Projector”</name>
     <link>https://electronicslatvia.com/lv/tproduct/819032607-864637777104-zvaigots-debess-projektors-starry-light</link>
@@ -70,8 +83,8 @@
     <used>0</used>
   </item>
   <item>
-    <name>Alisa Lite 2 / Алиса Лайт 2 viedais skaļrunis smart speaker</name>
-    <link>https://electronicslatvia.com/lv/tproduct/532820908-756795508654-alisa-lite-2</link>
+    <name>ALISA LITE 2 viedais skaļrunis (smart speaker) — violeta un pelēka</name>
+    <link>https://electronicslatvia.com/lv/tproduct/532820908-756795508654-yasmina-alisa-lite-2</link>
     <price>199.00</price>
     <image>https://static.tildacdn.com/tild3761-6163-4836-a532-303431633832/Group_90.png</image>
     <manufacturer>Yango Group</manufacturer>
@@ -80,35 +93,59 @@
     <category_full>Viedie skaļruņi</category_full>
     <in_stock>9999</in_stock>
     <used>0</used>
-  </item>
+</item>
   <item>
-    <name>Alisa Mini 2 ar pulksteni / Алиса Мини 2 с часами – kompakts viedais skaļrunis (smart speaker)</name>
-    <link>https://electronicslatvia.com/lv/tproduct/532820908-203922057634-alisa-mini-2-ar-pulksteni</link>
-    <price>246.00</price>
-    <image>https://static.tildacdn.com/tild3964-3230-4537-b966-643365653038/jdt2ny5fwhbu2ujxe6p2.jpg</image>
+    <name>ALISA LITE 2 viedais skaļrunis (smart speaker) — oranža, gaiši zila, laima un rozā</name>
+    <link>https://electronicslatvia.com/lv/tproduct/532820908-175901179414-yasmina-alisa-lite-2</link>
+    <price>169.00</price>
+    <image>https://static.tildacdn.com/stor3536-6636-4265-b038-353836633262/c0723c569d8b3d165312fca49bc1f6fa.jpg</image>
     <manufacturer>Yango Group</manufacturer>
-    <model>Alisa Mini 2</model>
+    <model>Alisa Lite 2</model>
     <category>Viedie skaļruņi</category>
     <category_full>Viedie skaļruņi</category_full>
     <in_stock>9999</in_stock>
     <used>0</used>
-  </item>
+</item>
   <item>
-    <name>Alisa Midi viedais skaļrunis ar jaudīgu 24W skaņu (smart speaker)</name>
-    <link>https://electronicslatvia.com/lv/tproduct/532820908-298692955714-alisa-midi</link>
-    <price>420.00</price>
-    <image>https://static.tildacdn.com/tild3639-3439-4233-a132-333537643632/__2024-07-18__234030.png</image>
+    <name>ALISA MIDI viedais skaļrunis ar jaudīgu 24W skaņu (smart speaker) — krāsainās versijas</name>
+    <link>https://electronicslatvia.com/lv/tproduct/532820908-590856018654-yasmina-alisa-midi</link>
+    <price>399.00</price>
+    <image>https://static.tildacdn.com/stor3561-3466-4433-b835-343263323065/d71acdb47d9362993a1b140af2157622.webp</image>
     <manufacturer>Yango Group</manufacturer>
     <model>Alisa Midi</model>
     <category>Viedie skaļruņi</category>
     <category_full>Viedie skaļruņi</category_full>
     <in_stock>9999</in_stock>
     <used>0</used>
-  </item>
+</item>
+ <item>
+    <name>ALISA MIDI viedais skaļrunis ar jaudīgu 24W skaņu (smart speaker) — melnā un sudraba krāsā</name>
+    <link>https://electronicslatvia.com/lv/tproduct/532820908-298692955714-yasmina-alisa-midi</link>
+    <price>429.00</price>
+    <image>https://static.tildacdn.com/stor3636-3434-4034-a539-666237643632/b0a3177a58e84a81855ed07a5cc076a9.webp</image>
+    <manufacturer>Yango Group</manufacturer>
+    <model>Alisa Midi</model>
+    <category>Viedie skaļruņi</category>
+    <category_full>Viedie skaļruņi</category_full>
+    <in_stock>9999</in_stock>
+    <used>0</used>
+</item>
   <item>
-    <name>Alisa Max — viedais skaļrunis 65W ar LED displeju / smart speaker</name>
-    <link>https://electronicslatvia.com/lv/tproduct/532820908-848268032964-alisa-max</link>
+    <name>ALISA MAX viedais skaļrunis ar jaudīgu skaņu (smart speaker) — krāsainās versijas</name>
+    <link>https://electronicslatvia.com/lv/tproduct/532820908-994169295804-yasmina-alisa-max</link>
     <price>690.00</price>
+    <image>https://static.tildacdn.com/stor3261-3963-4463-b537-313037646332/839c47ea3a5cf7046fac67c2e9bfcded.webp</image>
+    <manufacturer>Yango Group</manufacturer>
+    <model>Alisa Max</model>
+    <category>Viedie skaļruņi</category>
+    <category_full>Viedie skaļruņi</category_full>
+    <in_stock>9999</in_stock>
+    <used>0</used>
+</item>
+ <item>
+    <name>ALISA MAX viedais skaļrunis ar jaudīgu skaņu (smart speaker) — melna</name>
+    <link>https://electronicslatvia.com/lv/tproduct/532820908-848268032964-yasmina-alisa-max</link>
+    <price>790.00</price>
     <image>https://static.tildacdn.com/tild3262-6363-4262-b735-613064373831/__2024-07-18__223131.png</image>
     <manufacturer>Yango Group</manufacturer>
     <model>Alisa Max</model>
@@ -116,7 +153,7 @@
     <category_full>Viedie skaļruņi</category_full>
     <in_stock>9999</in_stock>
     <used>0</used>
-  </item>
+</item>
   <item>
     <name>Bērnu viedpulkstenis Q12 ar GPS, zvaniem un atrašanās vietas izsekošanu</name>
     <link>https://electronicslatvia.com/catalog-rus/tproduct/600164487-554863167684-brnu-viedpulkstenis-q12</link>
