@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<catalog xmlns:geedo="https://www.geedo.com/product-feed/1.0" version="1.0" generated_at="2026-08-25">
+<catalog version="1.0" generated_at="2026-08-26">
   <product>
     <name>ALISA MINI 3 ar pulksteni viedais skaļrunis (smart speaker) — lavandas krāsā</name>
     <link>https://electronicslatvia.com/lv/tproduct/532820908-265869824744-yasmina-alisa-mini-3-ar-pulksteni</link>
@@ -13,6 +13,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>ALISA MINI 3 ar pulksteni viedais skaļrunis (smart speaker) — melnā un sudraba krāsā</name>
@@ -27,6 +30,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Zvaigžņotās debess projektors “Starry Light Projector”</name>
@@ -41,6 +47,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Viedā stūra lampa ar Wi-Fi (RGB LED)</name>
@@ -55,6 +64,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Komplekts “Drošība mājās” Aqara</name>
@@ -69,6 +81,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Komplekts “Viedie aizkari” Aqara</name>
@@ -83,6 +98,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Aqara viedā griestu lampa CL-L02D (T1M)</name>
@@ -97,6 +115,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>ALISA LITE 2 viedais skaļrunis (smart speaker) — violeta un pelēka</name>
@@ -111,6 +132,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>ALISA LITE 2 viedais skaļrunis (smart speaker) — oranža, gaiši zila, laima un rozā</name>
@@ -125,6 +149,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>ALISA MIDI viedais skaļrunis ar jaudīgu 24W skaņu (smart speaker) — melnā un sudraba krāsā</name>
@@ -139,6 +166,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>ALISA MIDI viedais skaļrunis ar jaudīgu 24W skaņu (smart speaker) — krāsainās versijas</name>
@@ -153,6 +183,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>ALISA MAX viedais skaļrunis ar jaudīgu skaņu (smart speaker) — krāsainās versijas</name>
@@ -167,6 +200,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>ALISA MAX viedais skaļrunis ar jaudīgu skaņu (smart speaker) — melna</name>
@@ -181,6 +217,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Bērnu viedpulkstenis Q12 ar GPS, zvaniem un atrašanās vietas izsekošanu</name>
@@ -195,6 +234,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Digitālā foto rāmis ar Wi-Fi un video atskaņošanas funkciju</name>
@@ -209,6 +251,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Aibi robots — AI pavadonis, kas vienmēr ir ar jums</name>
@@ -223,6 +268,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Bluetooth adapteris automašīnai (hands-free + mūzika)</name>
@@ -237,6 +285,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Amazfit Helio Strap fitnesa aproce ar pulsa, miega un aktivitātes uzraudzību</name>
@@ -251,6 +302,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>AI tulkošanas austiņas Bluetooth — bezvadu reāllaika balss tulkotājs</name>
@@ -265,6 +319,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>VR brilles viedtālrunim — iegremdēšanās virtuālajā realitātē</name>
@@ -279,6 +336,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Bērnu viedpulkstenis Q19 (Smart Baby Watch)</name>
@@ -293,6 +353,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>AI diktofons ar transkripciju un tulkošanu (64GB, 112 valodas)</name>
@@ -307,6 +370,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Aqara viedais gaismas slēdzis (H2 EU)</name>
@@ -321,6 +387,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Viedā māja: rullo aizkaru vadība / Aqara T1S (CD-M03D)</name>
@@ -335,6 +404,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Aqara Hub M200 (HM-G03D)</name>
@@ -349,6 +421,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Aqara viedā spuldze (LB-L02D / T2)</name>
@@ -363,6 +438,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Galda spēle “Naudas plūsma” – finanšu pratības un biznesa spēle</name>
@@ -377,6 +455,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>AI tulkošanas brilles ar Bluetooth – smart glasses reāllaika tulkošanai 144 valodās</name>
@@ -391,6 +472,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>PLAUD NotePin — AI diktofons - Violets</name>
@@ -405,6 +489,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Viedās brilles ar kameru 1080P (64GB)</name>
@@ -419,6 +506,9 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
   <product>
     <name>Rokassoma retro telefona formā bērniem un sievietēm</name>
@@ -433,5 +523,8 @@
     <adult>no</adult>
     <in_stock>1</in_stock>
     <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
   </product>
 </catalog>
