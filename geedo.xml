@@ -1,6 +1,113 @@
 <?xml version='1.0' encoding='utf-8'?>
 <catalog version="1.0" generated_at="2026-08-26">
   <product>
+    <name>Iekšauss AI austiņas-tulkotājs</name>
+    <link>https://electronicslatvia.com/lv/tproduct/819033866-951021369664-iekauss-ai-austias-tulkotjs</link>
+    <price>59.99</price>
+    <currency>EUR</currency>
+    <image>https://static.tildacdn.com/stor3764-6464-4635-a336-613664343235/37a649786680df007e6c358bd009e9f7.png</image>
+    <category>Austiņas >> AI tulkošanas austiņas</category>
+    <brand>Bez zīmola</brand>
+    <language>lv</language>
+    <condition>new</condition>
+    <adult>no</adult>
+    <in_stock>1</in_stock>
+    <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+</product>
+
+<product>
+    <name>Viedie AI brilles ar kameru un tulkošanu</name>
+    <link>https://electronicslatvia.com/lv/tproduct/819033866-322246958074-viedie-ai-brilles-ar-kameru-un-tulkoanu</link>
+    <price>98.00</price>
+    <currency>EUR</currency>
+    <image>https://static.tildacdn.com/stor3733-3431-4331-b835-333436663237/d223903fdf455db882c9637be1e9b2a7.png</image>
+    <category>Elektronika >> Viedās AI brilles</category>
+    <brand>Bez zīmola</brand>
+    <language>lv</language>
+    <condition>new</condition>
+    <adult>no</adult>
+    <in_stock>1</in_stock>
+    <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+</product>
+
+<product>
+    <name>Viedpulkstenis ar AI funkcijām</name>
+    <link>https://electronicslatvia.com/lv/tproduct/819033866-765381147074-viedpulkstenis-ar-ai-funkcijm</link>
+    <price>78.00</price>
+    <currency>EUR</currency>
+    <image>https://static.tildacdn.com/stor6430-6134-4364-b363-336162353162/030d3fb5e7f43bb65427173b52e5534e.png</image>
+    <category>Viedpulksteņi >> AI viedpulksteņi</category>
+    <brand>Bez zīmola</brand>
+    <language>lv</language>
+    <condition>new</condition>
+    <adult>no</adult>
+    <in_stock>1</in_stock>
+    <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+</product>
+
+<product>
+    <name>PLAUD Note — AI diktofons zvaniem un tikšanās reizēm</name>
+    <link>https://electronicslatvia.com/lv/tproduct/819033866-364847721654-plaud-note-ai-diktofons-zvaniem-un-tikan</link>
+    <price>229.00</price>
+    <currency>EUR</currency>
+    <image>https://static.tildacdn.com/stor3939-3066-4430-b861-613665346165/4ddad62f61065ee59b28f09b5d910bdd.png</image>
+    <category>AI gadžeti >> AI diktofoni</category>
+    <brand>PLAUD</brand>
+    <language>lv</language>
+    <condition>new</condition>
+    <adult>no</adult>
+    <in_stock>1</in_stock>
+    <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+</product>
+
+<product>
+    <name>Viedā tējkanna ar Wi-Fi un vadību caur Alisu</name>
+    <link>https://electronicslatvia.com/lv/tproduct/819032607-233796451074-vied-tjkanna-ar-wi-fi-un-vadbu-caur-alis</link>
+    <price>69.00</price>
+    <currency>EUR</currency>
+    <image>https://static.tildacdn.com/stor3833-6361-4432-b931-353839356331/f18814a82a3b0773aa0dfbe5c39f5ef5.png</image>
+    <category>Viedā māja >> Viedās tējkannas</category>
+    <brand>Bez zīmola</brand>
+    <language>lv</language>
+    <condition>new</condition>
+    <adult>no</adult>
+    <in_stock>1</in_stock>
+    <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+</product>
+
+<product>
+    <name>Viedais projektors "Zvaigžņotās debesis" ar vadību caur Alisu</name>
+    <link>https://electronicslatvia.com/lv/tproduct/819032607-110728631514-viedais-projektors-zvaigots-debesis-ar-v</link>
+    <price>49.00</price>
+    <currency>EUR</currency>
+    <image>https://static.tildacdn.com/stor3538-6539-4932-b536-386461383232/018bc101abe53c56200497c287d71515.png</image>
+    <category>Projektori >> Viedie projektori</category>
+    <brand>Bez zīmola</brand>
+    <language>lv</language>
+    <condition>new</condition>
+    <adult>no</adult>
+    <in_stock>1</in_stock>
+    <accessory>no</accessory>
+    <shipping region="LV" cost="4.00" delivery_days="3" />
+    <shipping region="LT" cost="9.00" delivery_days="3" />
+    <shipping region="EE" cost="9.00" delivery_days="3" />
+</product>
+  <product>
     <name>ALISA MINI 3 ar pulksteni viedais skaļrunis (smart speaker) — lavandas krāsā</name>
     <link>https://electronicslatvia.com/lv/tproduct/532820908-265869824744-yasmina-alisa-mini-3-ar-pulksteni</link>
     <price>269.00</price>
