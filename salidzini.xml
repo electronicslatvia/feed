@@ -45,7 +45,7 @@ Jaunās paaudzes kompaktā Alisa ar mūsdienīgu dizainu un spilgtu LED displeju
     <category_full>Viedie skaļruņi</category_full>
 </offer>
 		<offer id="864637777104">
-			<name>Zvaigžņotās debess projektors “Starry Light Projector”</name>
+			<name>Zvaigžņoto debesu projektors</name>
 			<description>
 <![CDATA[
 Zvaigžņotās debess efekts patiks bērniem, radīs romantisku noskaņu pieaugušajiem un kļūs par ideālu apgaismojumu vakaros. Piemērots guļamistabai, bērnu istabai vai atpūtai pēc dienas.
@@ -66,7 +66,7 @@ Zvaigžņotās debess efekts patiks bērniem, radīs romantisku noskaņu pieaugu
 			<category_full>Projektori > Zvaigžņotās debess projektori</category_full>
 		</offer>
 		<offer id="368819197084">
-			<name>Viedā stūra lampa ar Wi-Fi (RGB LED)</name>
+			<name>Stūra lampa ar Wi-Fi</name>
 			<description>
 <![CDATA[
 Moderns LED RGB stāvlampas modelis, kas piepilda telpas stūri ar maigu un regulējamu gaismu. Ideāli piemērots viesistabai, guļamistabai vai spēļu zonai.
@@ -120,7 +120,7 @@ Komforts, ko tu jūti katru dienu. Aizkari atveras paši — pēc laika, ar bals
 			<category_full>Viedā māja > Viedie aizkari</category_full>
 		</offer>
 			<offer id="951021369664">
-    <name>Iekšauss AI austiņas-tulkotājs</name>
+    <name>AI austiņas ar reāllaika tulkošanu</name>
     <description><![CDATA[
 Skatāties izglītojošu saturu svešvalodā vai apmeklējat lekcijas un pasākumus citā valodā? <strong>AI austiņas palīdzēs saprast runu reāllaikā — tulkojums tieši austiņās + trokšņu slāpēšana.</strong>
 ]]></description>
@@ -134,7 +134,7 @@ Skatāties izglītojošu saturu svešvalodā vai apmeklējat lekcijas un pasāku
 </offer>
 
 <offer id="322246958074">
-    <name>Viedie AI brilles ar kameru un tulkošanu</name>
+    <name>AI brilles ar kameru un tulkošanu</name>
     <description><![CDATA[
 Viedās brilles <strong>Ray-Ban Meta stilā</strong> — bet ar vairāk funkcijām un zemāku cenu. Video no pirmās personas skata, AI palīgs, tulkošana, AR navigācija, zvani, mūzika. Viss tieši brillēs, bez tālruņa.
 ]]></description>
@@ -162,7 +162,7 @@ Viedās brilles <strong>Ray-Ban Meta stilā</strong> — bet ar vairāk funkcij�
 </offer>
 
 <offer id="364847721654">
-    <name>PLAUD Note — AI diktofons zvaniem un tikšanās reizēm</name>
+    <name>PLAUD Note AI diktofons</name>
     <vendor>PLAUD</vendor>
     <description><![CDATA[
 <strong>Daudz zvanu, tikšanos un sarunu?</strong> PLAUD Note — tavs palīgs. Ieraksta sarunas, automātiski atšifrē, un AI izceļ galveno: domas, uzdevumus, vienošanās.
@@ -176,7 +176,7 @@ Viedās brilles <strong>Ray-Ban Meta stilā</strong> — bet ar vairāk funkcij�
     <category_full>AI gadžeti > AI diktofoni</category_full>
 </offer>
 <offer id="233796451074">
-    <name>Viedā tējkanna ar Wi-Fi un vadību caur Alisu</name>
+    <name>Viedā tējkanna ar Wi-Fi</name>
     <description><![CDATA[
 <strong>Ir Alisa un vēlaties padarīt māju vēl gudrāku? Šī tējkanna ir domāta jums.</strong> Uzsildīšana ar balsi, temperatūra no 40 līdz 100 °C un automātiska uzturēšana.
 ]]></description>
@@ -191,7 +191,7 @@ Viedās brilles <strong>Ray-Ban Meta stilā</strong> — bet ar vairāk funkcij�
 </offer>
 
 <offer id="110728631514">
-    <name>Viedais projektors "Zvaigžņotās debesis" ar vadību caur Alisu</name>
+    <name>Viedais projektors ar Alisu</name>
     <description><![CDATA[
 Mīli mājīgumu, gaismas efektus un viedo māju? Šis projektors ir domāts jums. Zvaigžņotās debesis, Mēness, nakts debesis <strong>— un balss vadība caur Alisu.</strong>
 ]]></description>
@@ -344,7 +344,7 @@ Augstākās klases, dziļa un telpiska skaņa — tuva pilnvērtīgai audio sist
 			<category_full>Mobilie telefoni un aksesuāri « Viedpulksteņi</category_full>
 		</offer>
 		<offer id="859799301614">
-			<name>Digitālā foto rāmis ar Wi-Fi un video atskaņošanas funkciju</name>
+			<name>Digitālais fotorāmis ar Wi-Fi</name>
 			<description>
 <![CDATA[
 Mūsdienīgs risinājums jūsu skaistāko mirkļu glabāšanai un kopīgošanai.<br />Augsta attēla kvalitāte un ērta vadība ikdienas lietošanai.
@@ -365,7 +365,7 @@ Mūsdienīgs risinājums jūsu skaistāko mirkļu glabāšanai un kopīgošanai.
 			<category_full>Foto un video tehnika « Digitālie foto rāmji</category_full>
 		</offer>
 		<offer id="662806912564">
-			<name>Aibi robots — AI pavadonis, kas vienmēr ir ar jums</name>
+			<name>AIBI robots – AI robots kompanjons</name>
 			<description>
 <![CDATA[
 Gudrs palīgs ar mākslīgo intelektu ikdienai un saziņai. Palīdz ikdienas uzdevumos, izklaidē un kļūst par uzticamu draugu.
@@ -381,7 +381,7 @@ Gudrs palīgs ar mākslīgo intelektu ikdienai un saziņai. Palīdz ikdienas uzd
 			<category_full>Rotaļlietas « Interaktīvās rotaļlietas « Roboti bērniem</category_full>
 		</offer>
 		<offer id="251381811324">
-			<name>Bluetooth adapteris automašīnai (hands-free + mūzika)</name>
+			<name>Bluetooth adapteris automašīnai</name>
 			<description>
 <![CDATA[
 Lerīce, kas padara jebkuru auto modernāku. Savieno telefonu un klausies mūziku, atbildi uz zvaniem un uzlādē ierīces braukšanas laikā
@@ -395,7 +395,7 @@ Lerīce, kas padara jebkuru auto modernāku. Savieno telefonu un klausies mūzik
 			<categoryId>957833265164</categoryId>
 		</offer>
 		<offer id="924693355274">
-			<name>Amazfit Helio Strap fitnesa aproce ar pulsa, miega un aktivitātes uzraudzību</name>
+			<name>Amazfit Helio Strap viedā aproce</name>
 			<vendor>Amazfit</vendor>
 			<description>
 <![CDATA[
@@ -411,7 +411,7 @@ Palīdz sekot aktivitātei, miegam un atjaunošanās procesam. Ļauj labāk izpr
 			<category_full>Sporta preces / Sporta aksesuāri un citas lietas / Sporta pulksteņi un aproces</category_full>
 		</offer>
 		<offer id="511837172464">
-			<name>AI tulkošanas austiņas Bluetooth – bezvadu austiņas ar reāllaika tulkošanu</name>
+			<name>AI tulkošanas austiņas Bluetooth</name>
 			<description>
 <![CDATA[
 Bezvadu austiņas ar tulkošanas funkciju caur lietotni. Palīdz saprast svešvalodas un ērti sazināties ceļojumos, darbā un ikdienā.
@@ -458,7 +458,7 @@ Uzticams risinājums saziņai un bērna drošībai. Apvieno telefona un GPS izse
 			<categoryId>957833265164</categoryId>
 		</offer>
 		<offer id="168021257854">
-			<name>AI diktofons ar transkripciju un tulkošanu (64GB, 112 valodas)</name>
+			<name>PLAUD NotePin AI diktofons</name>
 			<description>
 <![CDATA[
 Gudrs palīgs, kas pārvērš runu tekstā un veido kopsavilkumus. Ideāli piemērots sapulcēm, lekcijām un darbam — lai nekas svarīgs nepazustu.
